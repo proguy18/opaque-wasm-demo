@@ -1,6 +1,6 @@
 # Getting Started
 
-This project imports [OPAQUE-WAM](https://github.com/marucjmar/opaque-wasm) in order to implement the OPAQUE protocol.
+This project imports [OPAQUE-WASM](https://github.com/marucjmar/opaque-wasm) in order to implement the OPAQUE protocol.
 
 # Current Problems
 
